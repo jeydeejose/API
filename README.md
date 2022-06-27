@@ -5,7 +5,7 @@
 3. npx sequelize-cli db:migrate
 4. TO RUN THE API SERVER : nodemon server.js
 
-#API ENDPOINTS
+# API ENDPOINTS
 
 REGISTER - http://127.0.0.1:3000/api/register 
 [params:]
